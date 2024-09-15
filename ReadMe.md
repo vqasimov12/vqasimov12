@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Vaqif, currently pursuing a Bachelor's degree in Computer Engineering at the Azerbaijan State Oil and Industry University (ASOIU).<br><br>🎓 I'm also enhancing my skills in .NET and its technologies, particularly C#, at STEP IT Academy. My focus is on building responsive and efficient applications, with experience in both desktop and web development.<br><br>🚀 I'm passionate about learning new technologies, solving complex problems, and continuously improving my programming skills. I enjoy working on projects that challenge me to think critically and expand my knowledge.<br><br>💻 Check out my repositories to see what I'm working on
+Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Computer Engineering at the Azerbaijan State Oil and Industry University (ASOIU).<br><br>🎓 🛠️I'm also enhancing my skills in .NET and its technologies, particularly C#, at STEP IT Academy. My focus is on building responsive and efficient applications, with experience in both desktop and web development.<br><br>🚀 I'm passionate about learning new technologies, solving complex problems, and continuously improving my programming skills. I enjoy working on projects that challenge me to think critically and expand my knowledge.<br><br>💻 Check out my repositories to see what I'm working on
 
 
 ## 🌐 Socials:
