@@ -15,11 +15,22 @@ Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Com
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white) 
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4.svg?style=plastic&logo=ef&logoColor=white) 
+![Dapper](https://img.shields.io/badge/Dapper-00BFFF.svg?style=plastic&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-%23239120.svg?style=plastic&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white) 
+![WinForms](https://img.shields.io/badge/WinForms-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
+![System Programming](https://img.shields.io/badge/System%20Programming-808080.svg?style=plastic&logo=devdotto&logoColor=white)
+![Network Programming](https://img.shields.io/badge/Network%20Programming-000000.svg?style=plastic&logo=devdotto&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF69B4.svg?style=plastic&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF4500.svg?style=plastic&logoColor=white)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vqasimov12&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
