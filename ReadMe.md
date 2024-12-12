@@ -8,13 +8,16 @@ Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Com
 ![](https://github-profile-trophy.vercel.app/?username=vqasimov12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white) 
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4.svg?style=plastic&logo=ef&logoColor=white) 
 ![Dapper](https://img.shields.io/badge/Dapper-00BFFF.svg?style=plastic&logoColor=white)
@@ -41,10 +44,6 @@ Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vqasimov12&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=vqasimov12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
