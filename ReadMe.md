@@ -53,6 +53,7 @@ Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Com
 ![System Programming](https://img.shields.io/badge/System%20Programming-808080.svg?style=plastic&logo=devdotto&logoColor=white)  
 ![Network Programming](https://img.shields.io/badge/Network%20Programming-000000.svg?style=plastic&logo=devdotto&logoColor=white)  
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF69B4.svg?style=plastic&logoColor=white)  
+![MVVM Pattern](https://img.shields.io/badge/MVVM%20Pattern-%2300599C.svg?style=plastic&logo=dotnet&logoColor=white)  
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF4500.svg?style=plastic&logoColor=white)
 
 
