@@ -7,36 +7,53 @@ Hi there! I'm Vaqif,<br><br>🎓 I currently pursuing a Bachelor's degree in Com
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vqasimov12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CD6799.svg?style=plastic&logo=sass&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-%23C2C5C7.svg?style=plastic&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white) 
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4.svg?style=plastic&logo=ef&logoColor=white) 
-![Dapper](https://img.shields.io/badge/Dapper-00BFFF.svg?style=plastic&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-%23239120.svg?style=plastic&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white) 
-![WinForms](https://img.shields.io/badge/WinForms-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
-![System Programming](https://img.shields.io/badge/System%20Programming-808080.svg?style=plastic&logo=devdotto&logoColor=white)
-![Network Programming](https://img.shields.io/badge/Network%20Programming-000000.svg?style=plastic&logo=devdotto&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF69B4.svg?style=plastic&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF4500.svg?style=plastic&logoColor=white)
 
+# 💻 Tech Stack
+
+## Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  
+
+## Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-%23CD6799.svg?style=plastic&logo=sass&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-%23C2C5C7.svg?style=plastic&logo=sass&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)  
+
+## Backend
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)  
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)  
+![ASP.NET Razor Pages](https://img.shields.io/badge/ASP.NET%20Razor%20Pages-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)  
+
+## Desktop Development
+![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)  
+![WinForms](https://img.shields.io/badge/WinForms-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)  
+
+## Databases and ORM
+![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white)  
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4.svg?style=plastic&logo=ef&logoColor=white)  
+![Dapper](https://img.shields.io/badge/Dapper-00BFFF.svg?style=plastic&logoColor=white)  
+![ADO.NET](https://img.shields.io/badge/ADO.NET-%23239120.svg?style=plastic&logo=dotnet&logoColor=white)  
+
+## Tools and Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)  
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)  
+
+## Programming Paradigms and Patterns
+![System Programming](https://img.shields.io/badge/System%20Programming-808080.svg?style=plastic&logo=devdotto&logoColor=white)  
+![Network Programming](https://img.shields.io/badge/Network%20Programming-000000.svg?style=plastic&logo=devdotto&logoColor=white)  
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF69B4.svg?style=plastic&logoColor=white)  
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF4500.svg?style=plastic&logoColor=white)
 
 
 # 📊 GitHub Stats:
